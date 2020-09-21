@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: TimuS
+Build-Jdk: 12
+Implementation-Title: WalletApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.project
+Implementation-URL: https://spring.io/projects/spring-boot/WalletApplica
+ tion
+Created-By: Maven Integration for Eclipse
+
